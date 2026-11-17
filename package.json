@@ -1,0 +1,11 @@
+{
+  "name": "gossip-membership-engine",
+  "version": "0.1.0",
+  "description": "SWIM-style gossip membership state machine (alive/suspect/dead) with incarnation-based conflict resolution",
+  "type": "commonjs",
+  "main": "src/membership.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
